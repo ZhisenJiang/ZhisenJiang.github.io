@@ -52,6 +52,8 @@ Outstanding Graduate of Beijing (Bachelor), 2025
 
 # Service
 
+Reviewer of [IEEE Control Systems Letters](https://ieeecss.org/publication/ieee-control-systems-letters)
+
 Reviewer of IEEE Transactions on Smart Grids
 
 Reviewer of CSEE journal of power and energy systems
