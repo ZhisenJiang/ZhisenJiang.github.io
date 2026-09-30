@@ -44,6 +44,10 @@ education:
   note: "Rank 1/46 in undergraduate studies, GPA: 94.48/100"
   
 experience:
+- name: Massachusetts Institute of Technology (MIT)
+  logo: assets/images/badges/mit_logo.svg
+  position: Visiting Student (Host is <a href="https://gioele.science/" target="_blank" rel="noopener">Prof. Gioele Zardini</a>)
+  date: Sep. 2026
 - name: ETH Zürich
   logo: assets/images/badges/eth_logo_kurz_pos.png
   position: Ph.D. Student (Supervisor is <a href="https://dorfler.ethz.ch/">Prof. Florian Dörfler</a> and <a href="https://www.bsaver.io/">Dr. Saverio Bolognani</a>)
